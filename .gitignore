@@ -1,0 +1,7 @@
+UnityPackageManager
+Library
+Temp
+.idea/
+*.sln
+*.csproj
+*DotSettings.user
